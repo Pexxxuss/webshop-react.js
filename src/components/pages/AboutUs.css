@@ -1,0 +1,30 @@
+div.about-us-background {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+  z-index: 0;
+}
+div.about-us-text {
+  text-align: center;
+  background-color: #f5f2e8;
+  padding-top: 2%;
+}
+div.about-us-text h1 {
+  color: #df6f0d;
+  font-family: fantasy;
+  font-size: 4rem;
+  padding-top: 2%;
+}
+.leftcol,
+.rightcol {
+  text-align: justify;
+  padding-top: 10%;
+}
+.leftcol p,
+.rightcol p {
+  color: black;
+}
+.rightcol {
+  margin-left: auto;
+}

@@ -1,0 +1,41 @@
+.personality-body {
+  background-color: #dba473;
+}
+.personality-body-title h1 {
+  text-align: center;
+  font-family: fantasy;
+  padding-top: 3%;
+  font-size: 3rem;
+}
+.personality-body-title h2 {
+  text-align: center;
+  color: white;
+  font-family: fantasy;
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
+.personality-staff {
+  background-color: white;
+  padding: 1%;
+  border-radius: 70px;
+}
+
+.personality-staff img {
+  height: 100%;
+  width: 100%;
+}
+.personality-footer {
+  padding-top: 3%;
+  display: flex;
+  justify-content: space-around;
+}
+.personality-staff p {
+  text-align: justify;
+  color: #df6f0d;
+}
+.personality-staff .first-row .first-col img {
+  border-top-left-radius: 70px;
+}
+.personality-staff .second-row .fourth-col img {
+  border-bottom-right-radius: 70px;
+}
